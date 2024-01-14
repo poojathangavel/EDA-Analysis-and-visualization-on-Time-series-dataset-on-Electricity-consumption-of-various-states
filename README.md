@@ -5,5 +5,5 @@ The dataset, obtained from Kaggle's public repository, comprises 34 attributes a
 ### Project Highlights
 In the course of this project, I made use of Python libraries such as pandas for data manipulation and analysis, along with plotly.express for creating insightful visualizations. Additionally, I leveraged built-in EDA functions to uncover patterns and trends within the dataset.
 #### Data Set Link: 
-https://www.kaggle.com/datasets/twinkle0705/state-wise-power-consumption-in-india
+https://www.kaggle.com/datasets/twinkle0705/state-wise-power-consumption-in-india.
 
